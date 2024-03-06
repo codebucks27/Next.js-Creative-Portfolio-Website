@@ -1,0 +1,48 @@
+Site: https://playground.com/
+
+Default Configuration: 
+
+- Model: Stable Diffusion XL
+
+- Filter: RealVis XL
+
+- Image Dimentions: 1024*576 (16:9)
+
+- Quality & Details: 30 steps
+
+--------------------------------------------------
+
+Home Page Background
+
+- Prompt: "An enchanted forest at night, under a starlit sky. The scene is dark by mystical glows from luminescent flowers, exotic mushrooms, and arcane symbols on ancient trees. The atmosphere is serene, with a magical aura conveyed through ethereal particles and soft glimmers of light floating in the air. The color scheme should focus on dark tones with highlights in mild yellow and gold, creating a magical and inviting scene that blends the beauty of an astral night with the mystery of a magical forest."
+
+- Seed: 656140970
+
+
+--------------------------------------------------
+
+About Page Background
+
+- Prompt: "mystical forest, dawn, luminescent plants, mist, ancient trees, tranquil, magical ambiance."
+
+- Seed: 568754894
+
+
+--------------------------------------------------
+
+Projects Page Background
+
+- Prompt: "An enchanted workshop at night, nestled within a forest clearing. The workshop is illuminated by glowing crystals and lanterns, casting soft lights on intricate machinery and floating spellbooks. Workbenches are cluttered with magical tools, potions, and ancient maps. The backdrop is a blend of natural forest elements and magical innovation, suggesting a space where magical projects and creations come to life."
+
+- Seed: 949988405
+
+
+--------------------------------------------------
+
+Contact Page Background
+
+- Prompt: "Twilight forest, ancient stone archway, glowing runes, magical flora, shimmering leaves, ethereal wisps, ambient light."
+
+- Seed: 225378614
+
+
