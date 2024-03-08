@@ -14,7 +14,7 @@ export default function Contact() {
         alt="Next.js Portfolio website's contact page background image"
         priority
         sizes="100vw"
-        className="-z-50 fixed top-0 left-0 w-full h-full object-cover object-center opacity-25"
+        className="-z-50 fixed top-0 left-0 w-full h-full object-cover object-center opacity-50"
       />
 
       <article className="relative w-full flex flex-col items-center justify-center py-8 sm:py-0 space-y-8">
