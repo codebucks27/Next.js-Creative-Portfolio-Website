@@ -15,7 +15,8 @@ Starter Code Files👇: <br />
 
 If you want to learn how to create it please follow below tutorial👇: <br />
 ➡ Tutorial Link 💚: [Personal Portfolio Website with Next.js, Three.js & Tailwind CSS Tutorial](https://youtu.be/T5t46vuW8fo) 
-[![YouTube Video Views](https://img.shields.io/youtube/views/1QGLHOaRLwM?style=social)](https://youtu.be/T5t46vuW8fo) <br />
+[![YouTube Video Views](https://img.shields.io/youtube/views/T5t46vuW8fo
+)](https://youtu.be/T5t46vuW8fo) <br />
 
 💚 Checkout my personal website [DevDreaming](https://devdreaming.com) <br />
 
