@@ -74,17 +74,18 @@ const AboutDetails = () => {
         </ItemLayout>
 
         <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
-          <img
-            className="w-full h-auto"
-            src={`${process.env.NEXT_PUBLIC_GITHUB_STREAK_STATS_URL}?user=codebucks27&theme=dark&hide_border=true&type=svg&background=EB545400&ring=FEFE5B&currStreakLabel=FEFE5B`}
-            alt="CodeBucks"
-            loading="lazy"
+         <img
+           className="w-full h-auto"
+           src={`https://streak-stats.demolab.com?user=challachinnaobulesh&theme=dark&hide_border=true&type=svg&background=EB545400&ring=FEFE5B&currStreakLabel=FEFE5B`}
+           alt="GitHub Streak"
+           loading="lazy"
           />
+  
         </ItemLayout>
 
         <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
           <Link
-            href="https://github.com/codebucks27/Nextjs-contentlayer-blog"
+            href=""
             target="_blank"
             className="w-full"
           >
