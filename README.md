@@ -1,35 +1,14 @@
-# Next.js Creative Portfolio Tutorial: Build Amazing Portfolio Website with Next.js, Three.js, and Tailwind CSS 🔥
 
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/Next.js-Creative-Portfolio-Website?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/Next.js-Creative-Portfolio-Website?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
+# 🚀 Challa Chinna Obulesh - Personal Portfolio Website
 
-This repository contains **final code** for Next.js Creative Portfolio website built using Next.js and Three.js. <br />
+This is the source code for my **personal portfolio** website, built using **Next.js, Tailwind CSS, Framer Motion, EmailJS, and Three.js**. It showcases my skills, projects, GitHub stats, and contact form, all in a visually appealing and interactive layout.
 
-For Demo checkout following link👇: <br />
-[Nextjs Creative Portfolio Website Demo](https://next-js-creative-portfolio-website.vercel.app/) <br />
-
----
-✨ Checkout my brand new Saas application -> [AI Headshot Generator](https://www.smartheadshots.ai)
+> 🔗 Live Portfolio: [https://challa-obulesh.vercel.app](https://challa-obulesh.vercel.app)  
+> 🧠 Built by: [Challa Chinna Obulesh](https://www.linkedin.com/in/challa-chinna-obulesh)
 
 ---
 
-Starter Code Files👇: <br />
-➡ Link 💚: [Nextjs Creative Portfolio Website Starter Code](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files) <br />
-<!--- ➡ Link 2💚(If you want to support): [Nextjs Creative Portfolio Website Final Code](https://codebucks.gumroad.com/l/ypzlu) <br /> --->
-
-If you want to learn how to create it please follow below tutorial👇: <br />
-➡ Tutorial Link 💚: [Personal Portfolio Website with Next.js, Three.js & Tailwind CSS Tutorial](https://youtu.be/T5t46vuW8fo) 
-[![YouTube Video Views](https://img.shields.io/youtube/views/T5t46vuW8fo
-)](https://youtu.be/T5t46vuW8fo) <br />
-
-💚 Checkout my personal website [DevDreaming](https://devdreaming.com) <br />
-
----
-# ⭐DO NOT FORGET TO STAR THIS REPO⭐
----
-
-## Images of The Portfolio Website:
+ ## Images of The Portfolio Website:
 
 #### Home
 ![Nextjs Creative Portfolio Website](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Home-desktop.png)
@@ -60,6 +39,11 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 #### AI Images
 
 - Created with the help of [Playground AI](https://playgroundai.com/)
+----
+
+#### AI Images
+
+- Created with the help of [Playground AI](https://playgroundai.com/)
 
 #### Github Stats & Details
 
@@ -83,22 +67,86 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 
 ---
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+ 
+### 🧰 Tech Stack
 
-## Getting Started
+- **Frontend:** Next.js 14, Tailwind CSS
+- **3D Assets:** Three.js, @react-three/fiber, gltfjsx
+- **Animations:** Framer Motion
+- **Forms:** react-hook-form, EmailJS
+- **Icons:** Lucide.dev, SkillIcons
+- **Analytics:** GitHub Readme Stats, GitHub Streak Stats
+- **Audio:** Background music (Pixabay, royalty-free)
+- **Deployment:** Vercel
 
-First, install the dependencies and run the development server:
+---
+
+### 💻 Features
+
+- Interactive animated sections with 3D models and smooth scroll.
+- GitHub contribution streak, language stats, and project cards.
+- Real-time contact form integrated with EmailJS.
+- Mobile responsive and visually stunning UI.
+- Project links open directly to GitHub or live demo.
+
+---
+
+### 📦 Getting Started
+
+To run this project locally:
 
 ```bash
-npm run install # to install all dependencies
+git clone https://github.com/challa-obulesh/portifolio
+cd portifolio
 
+# Install dependencies
+npm install
+
+# Run the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit: [http://localhost:3000](http://localhost:3000) in your browser to preview.
+
+---
+
+### 🛠 Configuration Notes
+
+> ✅ Environment Variables (`.env.local`)
+Make sure to set these if you use EmailJS:
+```
+NEXT_PUBLIC_EMAILJS_SERVICE_ID=your_service_id
+NEXT_PUBLIC_EMAILJS_TEMPLATE_ID=your_template_id
+NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=your_public_key
+```
+
+> 🔁 GitHub Stats (optional): Customize your username in `AboutDetails.jsx`.
+
+---
+
+### 🧠 About Me
+
+I’m a **3rd-year BTech CSE (Data Science)** student at **RGMCET**, passionate about **Data Analytics**, **Cloud (AWS)**, and **AI/ML**.  
+🏆 Ranked 2nd in **IEEE Embedathon @ NITK** and certified in **AWS Cloud & Google Analytics**.
+
+---
+
+### 📬 Contact
+
+- 📧 Email: challaobulesh3@gmail.com  
+- 🌐 Portfolio: [challa-obulesh.vercel.app](https://challa-obulesh.vercel.app)  
+- 💼 LinkedIn: [linkedin.com/in/challa-chinna-obulesh](https://www.linkedin.com/in/challa-chinna-obulesh)
+
+---
+
+### 🙏 Acknowledgements
+
+- [Lucide Icons](https://lucide.dev)
+- [skillicons.dev](https://skillicons.dev)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [Three.js](https://threejs.org/)
+- [Framer Motion](https://www.framer.com/motion/)
+
+---
+
+> If you like this project, give it a ⭐ on GitHub and feel free to fork and use it for your own portfolio!
