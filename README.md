@@ -126,6 +126,8 @@ git checkout 3b313c4   # last commit before the upgrade
 
 Or browse it on GitHub: [commit 3b313c4](https://github.com/codebucks27/Next.js-Creative-Portfolio-Website/tree/3b313c484d2bdf853c8db72a2ba54995b50faf46).
 
-## Other project
+## Other projects
 
 From the creator: [SmartHeadshots AI — AI headshot generator](https://www.smartheadshots.ai/).
+
+Another project of mine is AI Room Design, an app for [AI-powered room design](https://www.airoomdesignapp.com).
